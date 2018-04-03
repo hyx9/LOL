@@ -1,5 +1,5 @@
 # 《华英雄》公告
-</br> 发卡地址：http://www.8ka.la/details/1DAAB9D92565C527 </br>
+</br> 发卡地址：http://www.8ka.la/liebiao/DA9F15B81D90E982 </br>
 </br> 自带FF自带LCS</br>
 </br> HYX没有代理群 永久不设客户群 自行找落点</br>
 </br> 长期项目，诚信共赢，放心购买</br>
