@@ -1,6 +1,6 @@
 # 《华英雄》公告 
 
-</br> 代理入口：http://www.8ka.la/liebiao/739A59DFD700078B </br>
+</br> 代理入口：http://8ka.la/details/EC136A3327D192FC </br>
 </br> 自带FF自带LCS</br>
 </br> 为了保证代理利润 不设零售 </br>
 </br> 购买后可认证提天卡</br> 
