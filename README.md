@@ -7,14 +7,15 @@
 </br> 没有代理群 永久不设客户群 自行找落点</br>
  
 #  FF状态
-</br>更新中 预计4-4</br>
+</br>稳定</br>
 
 #  下载地址
-</br>程序下载03/29 https://pan.lanzou.com/i0qhv6f</br>
+</br>程序下载04/04 https://pan.lanzou.com/i0rwtad</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
 
 
  # 最新更新
+</br> 新增自主查卡，实时动态，服务器选择</br>
 </br> 优惠券活动结束</br>
 </br> 数据库已清</br>
 </br> 国内顶配高防+香港CN2专线服务器 已更新</br>
