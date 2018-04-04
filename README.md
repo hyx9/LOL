@@ -6,7 +6,7 @@
 </br> 购买后可认证提天卡</br> 
 </br> 没有代理群 永久不设客户群 自行找落点</br>
  
-#  FF状态 = 稳定
+#  FF状态 = 稳定中  
 #  下载地址
 </br>程序下载04/04 https://pan.lanzou.com/i0rwtad</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
