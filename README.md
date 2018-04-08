@@ -7,7 +7,7 @@
 
 # 最新更新
  
- 
+</br> 充值已修复 需要重新下载0409</br>
 </br> 服务器升级完毕0409</br>
 </br> 服务器注入问题已解决</br>
 </br> 新增自助查卡，实时动态，服务器选择(长城宽带等线路用多线）</br>
@@ -20,7 +20,7 @@
 
 # 下载地址 
 
-</br>程序下载04/08 https://pan.lanzou.com/i0sr7fc</br>
+</br>程序下载04/09 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
 
  
