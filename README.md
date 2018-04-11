@@ -1,6 +1,6 @@
 
 
-# 状态 = 稳定
+# 状态 = 更新ff中
 
 </br> 近日复测041012</br>
 </br> 支持附加单板FF配合 </br>
@@ -23,5 +23,5 @@
 
 </br>程序下载04/09 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
-
+</br>商务合作Q 107962801</br>
  
