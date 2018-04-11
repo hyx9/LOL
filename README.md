@@ -1,6 +1,6 @@
 
 
-# 状态 = 更新ff中
+# 状态 = 已更新
 
 </br> 近日复测041012</br>
 </br> 支持附加单板FF配合 </br>
@@ -23,5 +23,5 @@
 
 </br>程序下载04/09 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
-</br>此行记录2小时后删除，商务合作Q107962801 批卡更换地址 http://8ka.la/liebiao/30BE95CD881E7CAC</br>
+</br>批卡地址更新 http://8ka.la/liebiao/30BE95CD881E7CAC</br>
  
