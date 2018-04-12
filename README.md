@@ -2,6 +2,9 @@
 
 # 状态 = 已更新
 
+
+</br> 为了让用户享受更低的价格，取消大额批发，天卡最高26，经销商一律8折不议价</br>
+</br> http://8ka.la/liebiao/30BE95CD881E7CAC </br> 
 </br> 近日复测041012</br>
 </br> 支持附加单板FF配合 </br>
 
@@ -23,5 +26,4 @@
 
 </br>程序下载04/09 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
-</br>批卡地址更新 http://8ka.la/liebiao/30BE95CD881E7CAC</br>
  
