@@ -2,7 +2,7 @@
 
 # 状态 = 上次更新0413
 
-</br> 官网英雄演示视频</br>
+</br> 官网英雄视频演示</br>
 </br> https://www.changyun.tk/youtube/channel.php?channelid=UCy3BVqS_ekM7qM6e01kGBpQ </br>
 </br> 近日复测041012</br>
 </br> 支持附加单板FF配合 </br>
