@@ -1,7 +1,8 @@
 
 
 # 状态 = 上次更新0413
-
+</br> 功能视频详解</br>
+</br> https://www.bilibili.com/video/av22320329 </br>
 </br> 英雄视频演示</br>
 </br> https://www.changyun.tk/youtube/channel.php?channelid=UCy3BVqS_ekM7qM6e01kGBpQ </br>
 </br> 近日复测041012</br>
