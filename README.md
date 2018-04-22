@@ -1,16 +1,13 @@
 
 
 # 状态 = 上次更新0413
-</br> 功能视频详解</br>
-</br> https://www.bilibili.com/video/av22320329 </br>
-</br> 英雄视频演示</br>
-</br> https://www.changyun.tk/youtube/channel.php?channelid=UCy3BVqS_ekM7qM6e01kGBpQ </br>
+
 </br> 近日复测041012</br>
 </br> 支持附加单板FF配合 </br>
 
 # 最新更新
  
-</br> 4/10已更最新国服dll</br>
+</br> 需管理员身份运行</br>
 </br> 充值已修复 需要重新下载0409</br>
 </br> 服务器升级完毕0409</br>
 </br> 服务器注入问题已解决</br>
@@ -26,4 +23,6 @@
 
 </br>程序下载04/09 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
+</br> 新手教程 https://www.bilibili.com/video/av22320329 </br>
+</br> 视频演示 https://www.changyun.tk/youtube/channel.php?channelid=UCy3BVqS_ekM7qM6e01kGBpQ</br>
  
