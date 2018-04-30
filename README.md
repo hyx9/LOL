@@ -25,7 +25,7 @@
 
 # 下载地址 
 
-</br>小工具（放检测） https://pan.lanzou.com/i0xtovc</br>
+</br>小工具密码123（防检测） https://pan.lanzou.com/i0xtovc</br>
 </br>程序下载04/30 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
 </br> 新手教程 https://www.bilibili.com/video/av22320329 </br>
