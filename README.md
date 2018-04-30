@@ -1,8 +1,12 @@
 
 
-# 状态 = 上次更新0413
+# 状态 = 上次更新0430
 
-</br> 近日复测041012</br>
+</br> 配合非卖小工具（下面有地址）第一步：打开LCS，以管理员身份打开并登陆
+第二步：打开隐藏软件，找到进程的LCS文件名字
+第三部：点击右键。选择隐藏进程文件，保护进程文件
+第三部：隐藏窗口文件，跟隐藏任务管理器，全部勾上，进去游戏自动注入，不影响任何体验。</br>
+
 </br> 支持附加单板FF配合 </br>
 
 # 最新更新
@@ -21,7 +25,8 @@
 
 # 下载地址 
 
-</br>程序下载04/09 https://pan.lanzou.com/i0svguf</br>
+</br>小工具（放检测） https://pan.lanzou.com/i0xtovc</br>
+</br>程序下载04/30 https://pan.lanzou.com/i0svguf</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
 </br> 新手教程 https://www.bilibili.com/video/av22320329 </br>
 </br> 视频演示 https://www.changyun.tk/youtube/channel.php?channelid=UCy3BVqS_ekM7qM6e01kGBpQ</br>
