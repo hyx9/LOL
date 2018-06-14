@@ -14,6 +14,5 @@
 
 </br>程序下载05-16 https://pan.lanzou.com/i1136wd</br>
 </br>VC运行环境 https://pan.lanzou.com/i0qanih</br>
-</br> 新手教程 https://www.bilibili.com/video/av22320329 </br>
 </br> 视频演示 https://www.changyun.tk/youtube/channel.php?channelid=UCy3BVqS_ekM7qM6e01kGBpQ</br>
  
