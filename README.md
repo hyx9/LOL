@@ -2,7 +2,7 @@
 
 # 状态 = 上次更新0823
  
-</br> 防封和功能已分离，华英雄以后只更新功能不处理防封，批卡限时特惠价15R/天 https://www.fakal.com/liebiao/4C5766 </br> 
+</br> 防封和功能已分离，华英雄以后只更新功能不处理防封   https://www.fakal.com/liebiao/4C5766 </br> 
  
 
 # 最新更新
